@@ -9,3 +9,5 @@ obj/
 *.7z
 
 PredatorAndPreyCellularAutomaton/
+run
+*.o
